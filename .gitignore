@@ -1,3 +1,6 @@
+g++ hello_world.cpp -o hello_world
+
+
 # Prerequisites
 *.d
 
@@ -31,4 +34,3 @@
 *.out
 *.app
 
-g++ hello_world.cpp -o hello_world
